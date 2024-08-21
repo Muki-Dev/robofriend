@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Muki-Dev/robofriend/static/css/main.336ff3ce.css",
+    "main.js": "/Muki-Dev/robofriend/static/js/main.579958a2.js",
+    "static/js/453.4cd3d159.chunk.js": "/Muki-Dev/robofriend/static/js/453.4cd3d159.chunk.js",
+    "service-worker.js": "/Muki-Dev/robofriend/service-worker.js",
+    "static/media/SEGA.woff": "/Muki-Dev/robofriend/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Muki-Dev/robofriend/index.html",
+    "main.336ff3ce.css.map": "/Muki-Dev/robofriend/static/css/main.336ff3ce.css.map",
+    "main.579958a2.js.map": "/Muki-Dev/robofriend/static/js/main.579958a2.js.map",
+    "453.4cd3d159.chunk.js.map": "/Muki-Dev/robofriend/static/js/453.4cd3d159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.336ff3ce.css",
+    "static/js/main.579958a2.js"
+  ]
+}
