@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Muki-Dev/robofriend/static/css/main.336ff3ce.css",
-    "main.js": "/Muki-Dev/robofriend/static/js/main.579958a2.js",
-    "static/js/453.4cd3d159.chunk.js": "/Muki-Dev/robofriend/static/js/453.4cd3d159.chunk.js",
-    "service-worker.js": "/Muki-Dev/robofriend/service-worker.js",
-    "static/media/SEGA.woff": "/Muki-Dev/robofriend/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/Muki-Dev/robofriend/index.html",
-    "main.336ff3ce.css.map": "/Muki-Dev/robofriend/static/css/main.336ff3ce.css.map",
-    "main.579958a2.js.map": "/Muki-Dev/robofriend/static/js/main.579958a2.js.map",
-    "453.4cd3d159.chunk.js.map": "/Muki-Dev/robofriend/static/js/453.4cd3d159.chunk.js.map"
+    "main.css": "/Muki-Dev/my-app/static/css/main.a99456ab.css",
+    "main.js": "/Muki-Dev/my-app/static/js/main.222b5f1a.js",
+    "static/js/453.4cd3d159.chunk.js": "/Muki-Dev/my-app/static/js/453.4cd3d159.chunk.js",
+    "service-worker.js": "/Muki-Dev/my-app/service-worker.js",
+    "static/media/SEGA.woff": "/Muki-Dev/my-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Muki-Dev/my-app/index.html",
+    "main.a99456ab.css.map": "/Muki-Dev/my-app/static/css/main.a99456ab.css.map",
+    "main.222b5f1a.js.map": "/Muki-Dev/my-app/static/js/main.222b5f1a.js.map",
+    "453.4cd3d159.chunk.js.map": "/Muki-Dev/my-app/static/js/453.4cd3d159.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.336ff3ce.css",
-    "static/js/main.579958a2.js"
+    "static/css/main.a99456ab.css",
+    "static/js/main.222b5f1a.js"
   ]
 }
